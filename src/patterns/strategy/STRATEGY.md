@@ -1,3 +1,4 @@
+![Strategy UML Diagram](/assets/strategy-uml.png)
 # Strategy Pattern
 Define uma família de algorítmos, encapsula cada um deles e os torna intercambiáveis. A estratégia permite
 que o algorítmo varie independentemente dos clientes que o utilizam.
@@ -16,3 +17,4 @@ que o algorítmo varie independentemente dos clientes que o utilizam.
 ## Exemplos de aplicação
 - Definir ações de combate de jogadores e inimigos em um jogo.
 - Definição de regras de taxação de impostos para cada estado do país.
+- Definir diversos tipos de fretes para um pedido.

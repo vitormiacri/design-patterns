@@ -1,3 +1,4 @@
+![Observer UML Diagram](/assets/observer-uml.png)
 # Observer Pattern
 Define uma relação um-para-muitos entre um conjunto de objetos.
 Quando o estado de um objeto é alterado, todos os seus dependentes são notificados.
