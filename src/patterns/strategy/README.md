@@ -1,3 +1,5 @@
+# Diagrama UML
+
 ![Strategy UML Diagram](/assets/strategy-uml.png)
 # Strategy Pattern
 Define uma família de algorítmos, encapsula cada um deles e os torna intercambiáveis. A estratégia permite
