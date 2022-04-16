@@ -2,18 +2,6 @@
 Define uma família de algorítmos, encapsula cada um deles e os torna intercambiáveis. A estratégia permite
 que o algorítmo varie independentemente dos clientes que o utilizam.
 
-## Fundamentos OO
-Previso revisar sobre:
-- Abstração
-- Encapsulamento
-- Polimorfismo
-- Herança
-
-## Princípios OO
-- Encapsule o que varia
-- Dê prioridade à composição em relação à herança
-- Programe para interface, não para implementações
-
 ## Pontos importantes do capítulo
 - Os padrões não são inventados, são criados.
 - Saber princípios OO não faz você ser um bom designer
