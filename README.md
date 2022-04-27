@@ -6,7 +6,7 @@ Contém o estudo e anotações sobre a leitura do livro.
 
 Juntamente com exemplos de implementações utilizando **Typescript** aplicando cada um dos Padrões.
 
-## Lista dos Padrões
+## Lista dos Padrões (até o momento)
 
 - [Observer](/src/patterns/observer/)
 - [Strategy](/src/patterns/strategy/)
