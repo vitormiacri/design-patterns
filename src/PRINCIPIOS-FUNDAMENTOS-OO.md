@@ -1,5 +1,5 @@
 ## Fundamentos OO
-Previso revisar sobre:
+Preciso revisar sobre:
 - Abstração
 - Encapsulamento
 - Polimorfismo
@@ -12,3 +12,4 @@ Previso revisar sobre:
 - Busque designs levemente ligados entre objetos que interagem.
 - Projetos levemente ligados permitem construir sistemas OO flexíveis que podem lidar com mudanças
 porque minimizam a interdependência entre objetos.
+- As classes devem estar abertas para extensão, mas fechadas para modificação
